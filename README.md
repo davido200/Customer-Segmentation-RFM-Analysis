@@ -1,5 +1,5 @@
 ### Customer Segmentation & RFM Analysis
-![image](https://github.com/user-attachments/assets/b3b082f9-af8d-42ee-ad32-281646d6410e)
+![image](https://github.com/user-attachments/assets/cec4152c-4746-45bc-bce2-4730c08d541e)
 
 #### Project Overview
 This project showcases my ability to perform customer segmentation using RFM (Recency, Frequency, Monetary) analysis and create an interactive Power BI dashboard. The goal of the project is to identify customer groups, understand their behaviors, and provide actionable insights for improving retention and revenue generation.
